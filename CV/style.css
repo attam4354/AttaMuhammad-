@@ -1,0 +1,19 @@
+#skills .card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  #skills .card-title {
+    font-weight: bold;
+  }
+  
+  #skills .card-text {
+    color: #6c757d;
+  }
+  .project-card img {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .project-card:hover img {
+    transform: scale(1.05);
+  }  
